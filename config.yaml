@@ -1,0 +1,3 @@
+alternativeteam_scoretreshhold: 15 # The maximum score difference between the best teams and the alternative team to be generated
+team_size: 3 # The amount of participants in a team
+generate_alternatives: true # Generate alternative teams

@@ -1,0 +1,16 @@
+Person1,4709
+Person2,4354
+Person3,5244
+Person4,3504
+Person5,2825
+Person6,0
+Person7,0
+Person8,0
+Person9,2050
+Person10,2000
+Person11,1575
+Person12,0
+Person13,1383
+Person14,0
+Person15,1000
+Person16,0
